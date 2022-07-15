@@ -6,6 +6,7 @@ The goal is to build a convolutional neural network. Fashion-MNIST data was chos
 The fashion_mnist data: 60,000 train and 10,000 test data with 10 categories. Each gray-scale image is 28x28.
 
 #Label Description
+
 0 T-shirt/top
 
 1 Trouser
